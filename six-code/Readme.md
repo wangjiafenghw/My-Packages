@@ -1,5 +1,7 @@
 # six-code
 
+[![npm](https://img.shields.io/badge/Licence-GPL--3.0-blue.svg)](https://www.npmjs.com/package/six-code)
+
 ```bash
 
 $ npm install six-code
