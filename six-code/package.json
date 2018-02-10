@@ -1,6 +1,6 @@
 {
   "name": "six-code",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "This is random six code",
   "main": "index.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SpiritLing/six-code"
+    "url": "https://github.com/SpiritLing/My-Packages/tree/master/six-code"
   },
   "keywords": [
     "code"
   ],
   "author": "darktd",
-  "license": "GPL"
+  "license": "GPL-3.0"
 }
