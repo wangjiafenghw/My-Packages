@@ -1,0 +1,18 @@
+{
+  "name": "six-code",
+  "version": "1.1.1",
+  "description": "This is random six code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpiritLing/six-code"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "darktd",
+  "license": "GPL"
+}

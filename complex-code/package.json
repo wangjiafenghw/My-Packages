@@ -1,0 +1,22 @@
+{
+  "name": "complex-code",
+  "version": "1.1.2",
+  "description": "This is random code,exampele:Ru1zaWd2;this is have unix time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpiritLing/complex-code"
+  },
+  "keywords": [
+    "link",
+    "url",
+    "code",
+    "61",
+    "All the letters"
+  ],
+  "author": "darktd",
+  "license": "GPL"
+}
