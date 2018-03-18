@@ -26,7 +26,7 @@ class sub_obj{
         for (var i = 0; i < arr.length; i++) {
             if (Number(arr[i]) > 61) {
                 if (Number(arr[i]) - 61 < 10) {
-                    arr_num.push('61', '0' + (Number(arr[i]) - 61).toString());
+                    arr_num.push('61', (Number(arr[i]) - 61).toString());
                 } else {
                     arr_num.push('61', (Number(arr[i]) - 61).toString());
                 }
